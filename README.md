@@ -5,8 +5,8 @@ This code simulates vehicle evacuations from natural disasters. The focus of thi
 along evacuation routes. This built for my honors thesis.
 
 ## Usage Instructions
-<p>&emsp;The simulation was written in GAML which is available through GAMA platform (https://gama-platform.org/). GAML is similar to the Java programming 
-language. This project has not yet been completed but will be finished within the month. </p>
+<p>&emsp;The simulation was written in GAML which is available through GAMA platform. GAML is similar to the Java programming language. 
+GAMA is available to download from https://gama-platform.org/. The code should be run through the GAMA platform. </p>
 
 <p>&emsp;Once GAMA is downloaded, create a new project. Add the data from the /includes directory into the project directory of the same name. The names of the 
 files in the code (or after starting the simulation) will need to be changed to the desired colums. Only .shp files can be used for the simulation. The code 
