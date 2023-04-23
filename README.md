@@ -13,3 +13,10 @@ files in the code (or after starting the simulation) will need to be changed to 
 works (consider testing it using the test files), so if new files are being used and the simulation doesn't work it is likely an issue with the shape files used. 
 GAMA is very particular about the graph structure, so ensure that the graph is structured exactly as the demo files. Should you need additional support, consider 
 reading through my thesis, which breaks down the simulation in detail.</p>
+
+## Project Organization
+
+
+    ├── README.md          <- The README for developers using this project.
+    ├── includes           <- The data used for the simulation.
+    ├── models             <- The GAML simulation files.
