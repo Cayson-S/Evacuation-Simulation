@@ -1,7 +1,10 @@
 # BEV Disaster Evacuation Simulation
+
+## Background
 This code simulates vehicle evacuations from natural disasters. The focus of this project is on Battery Electric Vehicles (BEVs) and charging infrastructure 
 along evacuation routes. This built for my honors thesis.
 
+## Usage Instructions
 <p>&emsp;The simulation was written in GAML which is available through GAMA platform (https://gama-platform.org/). GAML is similar to the Java programming 
 language. This project has not yet been completed but will be finished within the month. </p>
 
