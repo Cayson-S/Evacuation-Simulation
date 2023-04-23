@@ -16,11 +16,11 @@ reading through my thesis, which breaks down the simulation in detail.</p>
 
 ## Project Organization
 
-  ├── includes                  <- The data used for the simulation.
-  │   ├── mobile_nodes.shp
-  │   ├── mobile_roads.shp
-  |   ├── test_node.shp
-  │   └── test_road.shp
-  ├── models                    <- The GAML simulation files.
-  |   └── ev_evacuations.gaml
-  └── README.md                 <- The README for developers using this project.
+    ├── includes                  <- The data used for the simulation.
+    │   ├── mobile_nodes.shp
+    │   ├── mobile_roads.shp
+    |   ├── test_node.shp
+    │   └── test_road.shp
+    ├── models                    <- The GAML simulation files.
+    |   └── ev_evacuations.gaml
+    └── README.md                 <- The README for developers using this project.
