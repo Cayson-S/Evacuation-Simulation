@@ -24,4 +24,4 @@ reading through my thesis, which breaks down the simulation in detail.</p>
     ├── models                              <- The GAML simulation files.
     |   └── ev_evacuations.gaml
     ├── README.md                           <- The README for developers using this project.
-    └── SEIPEL_Cayson_S23ThesisFinal.pdf    <- The README for developers using this project.
+    └── SEIPEL_Cayson_S23ThesisFinal.pdf    <- The thesis I wrote.
