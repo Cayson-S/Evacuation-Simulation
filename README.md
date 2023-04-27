@@ -9,7 +9,7 @@ along evacuation routes. This built for my honors thesis.
 GAMA is available to download from https://gama-platform.org/. The code should be run through the GAMA platform. </p>
 
 <p>&emsp;Once GAMA is downloaded, create a new project. Add the data from the /includes directory into the project directory of the same name. The names of the 
-files in the code (or after starting the simulation) will need to be changed to the desired colums. Only .shp files can be used for the simulation. The code 
+files in the code (or after starting the simulation) will need to be changed to the desired columns. Only .shp files can be used for the simulation. The code 
 works (consider testing it using the test files), so if new files are being used and the simulation doesn't work it is likely an issue with the shape files used. 
 GAMA is very particular about the graph structure, so ensure that the graph is structured exactly as the demo files. Should you need additional support, consider 
 reading through my thesis, which breaks down the simulation in detail.</p>
